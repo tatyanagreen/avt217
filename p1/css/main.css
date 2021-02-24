@@ -1,6 +1,7 @@
 body {
   background-color: black;
   margin-top: 100px;
+  font-family: 'Cormorant', sans-serif;
 }
 h1 {
   color: white;
@@ -21,5 +22,5 @@ a:hover {
   color: red;
 }
 body {
-  font-family: 'Cormorant', serif;
+  font-family: 'Cormorant', sans-serif;
 }
