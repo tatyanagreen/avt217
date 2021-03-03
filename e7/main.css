@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  margin-top: 100px;
+  font-family: 'Cormorant', sans-serif;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+h2 {
+  color: white;
+  text-align: center;
+}
+p {
+  color: white;
+  text-align: center;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  color: red;
+}
+body {
+  font-family: 'Cormorant', sans-serif;
+}
