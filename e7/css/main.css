@@ -24,3 +24,9 @@ a:hover {
 body {
   font-family: 'Cormorant', sans-serif;
 }
+
+header {
+ width: 75vw;
+ margin: 25px auto;
+ background-color: blue;
+}
