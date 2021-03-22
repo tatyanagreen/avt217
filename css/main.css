@@ -41,3 +41,10 @@ main {
     background-color: red;
     float: left;
   }
+
+  @media screen and (max-width: 900px) {
+    body {
+      background-color: #cccccc;
+    }
+
+  }
