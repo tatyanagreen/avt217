@@ -92,8 +92,8 @@ div {
   width: 100px;
   height: 100px;
   background-color: green;
-  border: 10px blue;
+  border: 10px solid black;
   margin: 25px;
   opacity: .75;
-  float: left; 
+  float: left;
 }
