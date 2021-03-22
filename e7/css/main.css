@@ -30,3 +30,8 @@ header {
  margin: 25px auto;
  background-color: blue;
 }
+main {
+  width: 75vw;
+  margin: 25px auto;
+  background-color: yellow;
+}
